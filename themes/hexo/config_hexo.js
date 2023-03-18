@@ -1,8 +1,8 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi，我是一个程序员', 'Hi，我是一个打工人', 'Hi，我是一个干饭人', '欢迎来到我的博客🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['不过仍相信黎明一定会到来，尽管所谓的“解放”总不见影子', '要用这被冷雨冻僵的身子，被冰霜冻裂的心脏', '还有我们除累累伤痕外别无他物的双手', '闯进你们的天堂瞧瞧'], // 首页大图标语文字
 
-  HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
+  HOME_NAV_BUTTONS: false, // 首页是否显示分类大图标按钮
   HOME_NAV_BACKGROUND_IMG_FIXED: true, // 首页背景图滚动时是否固定，true 则滚动时图片不懂； false则随鼠标滚动
 
   // 菜单配置
